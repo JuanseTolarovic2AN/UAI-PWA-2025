@@ -1,0 +1,27 @@
+{
+  "name": "uai-pwa-2025",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanseTolarovic2AN/UAI-PWA-2025.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanseTolarovic2AN/UAI-PWA-2025/issues"
+  },
+  "homepage": "https://github.com/JuanseTolarovic2AN/UAI-PWA-2025#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
